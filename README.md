@@ -1,5 +1,5 @@
 # laravelcrud-restfulapi
-CRUD operations in laravel with RESTful API and simple interface (PHP Native), compatible with Laravel 5.4 to 5,6
+CRUD operations in laravel with RESTful API and simple interface (PHP Native), compatible from Laravel
 
 How to run backend:
 1. Clone project
